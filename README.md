@@ -1,3 +1,3 @@
-# website
+# Website
 ckozlovski.com
 Starting website up!
