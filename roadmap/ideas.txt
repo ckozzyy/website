@@ -1,0 +1,16 @@
+Key Ideas:
+-minimalism --> focus on the important things
+-strong design and color language
+	-greys, blacks, whites
+	-gradients
+	-wooden textures
+-expressing me fully
+-personal self-improvement blog subsection
+-fully functional
+	-responsive
+	-javascript minigames
+	-working links (email, etc)
+
+
+
+sitemap: https://creately.com/app/#
