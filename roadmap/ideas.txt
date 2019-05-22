@@ -14,3 +14,7 @@ Key Ideas:
 
 
 sitemap: https://creately.com/app/#
+
+inspiration:
+https://www.siteinspire.com/websites?categories=19
+http://kalynnakano.com/
